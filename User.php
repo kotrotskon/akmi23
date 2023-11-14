@@ -7,6 +7,8 @@ class user {
 	public int age;
 	public string $address;
 
+	public string $password;
+	
 	public function login(){
 		
 	}
